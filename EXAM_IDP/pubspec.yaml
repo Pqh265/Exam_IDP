@@ -1,0 +1,4 @@
+name: t2208e_dart
+description: A student management system using JSON.
+dependencies:
+  json_annotation: ^4.4.0
